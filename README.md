@@ -43,9 +43,7 @@ A web app to record daily expenses, set monthly budgets for each category, and g
 - `templates/` : HTML pages
 - `static/` : static files
 
-## Screenshots
 
-(Add your screenshots here)
 
 ## Future Improvements
 
